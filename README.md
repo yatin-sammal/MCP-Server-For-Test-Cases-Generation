@@ -71,6 +71,7 @@ uvicorn main:app --reload
 ### `GET /test-bdd`
 
 Generates BDD test cases from hardcoded user stories and saves them as `.feature` files.
+You can check out the generated test cases and feature files for the hardcoded user stories in the bdd_output folder.
 
 ### `GET /generate-bdd`
 

@@ -20,7 +20,7 @@ Each output is saved as a `.feature` file under the `bdd_output/` folder.
 ### 1. Clone or Download the Project
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/yatin-sammal/MCP-Server-For-Test-Cases-Generation
 cd mcp_azure_bdd
 ```
 
